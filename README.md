@@ -76,6 +76,19 @@ The UI is **invisible yet intuitive**, focusing on reducing friction and maximiz
 
 **Font Used:** Lato, Roboto Mono
 
+>🗂️ Figma File Structure
+📌 Note:
+In the Figma file, you’ll find two organized pages under the Pages section:
+
+Page 1 – UI Screens: All final, polished user interface flows
+
+Page 2 – Components: Reusable design elements (buttons, cards, modals, etc.) used across the app
+>
+
+## 💻 Final Figma link
+
+👉  https://www.figma.com/design/gxjygbZHQYsKtTYhxoTITb/UJJWAL-JAIN_PROBLEM-2?node-id=0-1&t=wxfWrC0tFQhmUwFF-1
+
 > 📌 **Note:**  
 > While viewing the prototype, please explore the following **4 distinct flows** individually for a complete understanding of the handoff experience:
 >
@@ -85,11 +98,6 @@ The UI is **invisible yet intuitive**, focusing on reducing friction and maximiz
 > 🔹 **Flow 4: YouTube Alert** – Context-aware resume notification for YouTube content  
 >
 > 👉 Each flow highlights a different **use case and UI variation** of the seamless handoff concept.
-
-
-## 💻 Final Figma link
-
-👉  https://www.figma.com/design/gxjygbZHQYsKtTYhxoTITb/UJJWAL-JAIN_PROBLEM-2?node-id=0-1&t=wxfWrC0tFQhmUwFF-1
 
 ## 💻 Final Prototype
 
